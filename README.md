@@ -36,7 +36,15 @@ circle is still around the same sentence.
 
 ## Getting it
 
-Build it yourself - it takes a few seconds:
+**Download:** get `StickyInk.exe` from the
+[latest release](https://github.com/efkansenol/StickyInk/releases/latest) and
+double-click it. That is all.
+
+Windows may show a "Windows protected your PC" warning the first time, because
+the file is not code-signed. Choose *More info → Run anyway*, or build it
+yourself from the source instead.
+
+**Or build it yourself** - it takes a few seconds:
 
 1. Install the [.NET SDK](https://dotnet.microsoft.com/download) (any recent version).
 2. Clone this repository.
